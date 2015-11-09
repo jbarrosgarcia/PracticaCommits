@@ -131,7 +131,7 @@ final class StaticWordLibrary extends WordLibrary {
         "nuisngde",
         "rtdatioialn"
     };
-    
+    //lista de palabras para adivinar
     final static WordLibrary DEFAULT = new StaticWordLibrary();
 
     /**
